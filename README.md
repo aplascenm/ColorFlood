@@ -21,7 +21,7 @@ This project implements the core mechanics of Color Flood: starting from the top
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 To build and run this project, you need:
 
