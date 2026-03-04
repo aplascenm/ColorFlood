@@ -1,0 +1,40 @@
+# Qt Creator / Qt
+*.pro.user
+*.pro.user.*
+*.autosave
+*.qmake.stash
+
+# Build directories
+build-*/
+bin/
+obj/
+
+# Generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+
+# Qt Make / QMake generated
+Makefile
+*.make
+*.ncb
+*.sdf
+*.suo
+*.vcxproj*
+*.qrc.cpp
+
+# OS generated files
+.DS_Store
+._*
+Thumbs.db
+
+# Logs and temporary files
+*.log
