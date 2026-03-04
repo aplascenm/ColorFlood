@@ -5,7 +5,7 @@
 *.qmake.stash
 
 # Build directories
-build-*/
+build*/
 bin/
 obj/
 
