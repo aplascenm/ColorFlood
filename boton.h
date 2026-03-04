@@ -8,7 +8,7 @@ class Boton:public QObject, public QGraphicsRectItem
 {
     Q_OBJECT
 public:
-    Boton(QString nombre, int w, int h, QColor c, QColor cc, QGraphicsItem *parent=NULL);
+    Boton(QString nombre, int w, int h, QColor c, QColor cc, QGraphicsItem *parent=nullptr);
 
     void mousePressEvent(QGraphicsSceneMouseEvent *event);
     void hoverEnterEvent(QGraphicsSceneHoverEvent *event);
