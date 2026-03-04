@@ -25,10 +25,13 @@ To build and run this project, you need:
 - A C++ compiler
 - Qt development environment installed
 
-You can install Qt via the official installer from the Qt website or using your package manager.
+You can install Qt via the official installer from the Qt website:
 
-On Ubuntu/Debian based systems:
+https://www.qt.io/development/download-qt-installer-oss
 
-```bash
-sudo apt update
-sudo apt install qt5-default qttools5-dev-tools
+## Important!
+
+This project was built with Qt 5. So you need to:
+
+- Get the latest Qt Community Installer
+- Install latest Qt version with the Qt 5 Compatibility module checked.
