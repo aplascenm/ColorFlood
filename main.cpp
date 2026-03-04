@@ -4,6 +4,7 @@
 Juego *juego;
 int main(int argc, char *argv[])
 {
+    srand(time(nullptr));
     QApplication a(argc, argv);
 
     juego= new Juego();
