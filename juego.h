@@ -3,7 +3,6 @@
 
 #include <QGraphicsView>
 #include <QGraphicsScene>
-#include <iostream>
 #include <QLineEdit>
 #include "tablero.h"
 
