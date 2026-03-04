@@ -26,3 +26,5 @@ HEADERS  += \
     boton.h
 
 FORMS    +=
+
+CONFIG += c++11
